@@ -1,0 +1,44 @@
+{
+	"basics": {
+		"img":"images/harrypotter.webp",
+		"name": "suheab khan",
+		"profession": "software",
+		"email": "suheabkhan.786@gmail.com",
+		"place": "madanapalle"
+	},
+
+	"career":{
+		"info": "wanna improve my skills and and put all my knowledge at work"
+	},
+	"education": [{
+			"sno": "1",
+			"institute": "mits",
+			"degree": "btech",
+			"yop": "2018"
+		},
+		{
+
+			"sno": "2",
+			"institute": "krs",
+			"degree": "inter",
+			"yop": "2014"
+		},
+		{
+			"sno": "3",
+			"institute": "uni",
+			"degree": "ssc",
+			"yop": "2012"
+
+		}
+	],
+	"skills": [{
+			"information": "c"
+		},
+		{
+			"information": "c++"
+		},
+		{
+			"information": "java"
+		}
+	]
+}
